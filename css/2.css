@@ -1,0 +1,128 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body{
+background-color: #726f73;
+
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+  z-index: 9999;
+  background-color: #981CFA;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 24px 26px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #9B78FF;
+  color: black;
+}
+
+/*END NAV BAR*/
+
+
+.container{
+  margin-top: 60px;
+  border-top-width: 50%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+.card {
+  background: white;
+  width: 220px;
+  margin: 40px;
+  border-radius: 15px;
+  border-width: 2px 1.5em;
+
+}
+
+.card-image {
+
+  height: 170px;
+  margin-bottom: 20px;
+  background-size: cover;
+  padding-right: 30px;
+  border-radius: 15px 15px 0 0;
+
+}
+
+.dev-1{
+  background-image: url(https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg);
+}
+
+.dev-2{
+  background-image: url(https://www.reachfirst.com/wp-content/uploads/2018/08/Web-Development.jpg);
+}
+
+.dev-3{
+  background-image: url(https://www.corporatevision-news.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/04/Software-Development-1536x864.jpg.webp);
+}
+
+.dev-4{
+  background-image: url(https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/634970c7cbeed5837b11b938_62fd57ccd6890f25796f92f9_AdobeStock_295461823-p-1600.jpeg);
+}
+
+.dev-5{
+  background-image: url(https://appinventiv.com/wp-content/uploads/sites/1/2022/06/The-Ultimate-Guide-to-Software-Development-05-scaled.webp);
+}
+
+.dev-6{
+  background-image: url(https://www.sectorlink.com/img/blog/web-devel-important.jpg);
+}
+
+.dev-7{
+  background-image: url(https://www.europeanbusinessreview.com/wp-content/uploads/2021/12/web-development-696x464.jpg);
+}
+
+.dev-8{
+  background-image: url(https://www.digitalsilk.com/wp-content/uploads/2022/09/website-development-process-1.jpg.webp);
+}
+
+.card h2{
+  display: flex;
+  justify-content: center;
+
+}
+
+.card p{
+  padding: 10px;
+}
+
+.card a{
+  background-color: black;
+  color: white;
+  padding: 15px 20px;
+  display: block;
+  text-align: center;
+  border-radius: 0 0 15px 15px;
+  text-decoration: none;
+}
+
+.card:hover{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  transform: scale(1.03);
+  transition: background 0.7s ease-in-out;
+}
