@@ -65,6 +65,12 @@ html {
 
 /*START ABOUT SECTION*/
 
+.welcome-section img {
+  display: flex;
+  margin-top: 0%;
+  border-radius: 50%;
+}
+
 .welcome-section {
   display: flex;
   flex-direction: column;
