@@ -50,7 +50,7 @@ background-color: #726f73;
 
 .card {
   background: white;
-  width: 220px;
+  width: 290px;
   margin: 40px;
   border-radius: 15px;
   border-width: 2px 1.5em;
@@ -68,27 +68,27 @@ background-color: #726f73;
 }
 
 .dev-1{
-  background-image: url(https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg);
+  background-image: url('../akanname.png');
 }
 
 .dev-2{
-  background-image: url(https://www.reachfirst.com/wp-content/uploads/2018/08/Web-Development.jpg);
+  background-image: url('../pokedex.png');;
 }
 
 .dev-3{
-  background-image: url(https://www.corporatevision-news.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/04/Software-Development-1536x864.jpg.webp);
+  background-image: url('../myflix.png');
 }
 
 .dev-4{
-  background-image: url(https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/634970c7cbeed5837b11b938_62fd57ccd6890f25796f92f9_AdobeStock_295461823-p-1600.jpeg);
+  background-image: url('../eisenhowertodo.png');
 }
 
 .dev-5{
-  background-image: url(https://appinventiv.com/wp-content/uploads/sites/1/2022/06/The-Ultimate-Guide-to-Software-Development-05-scaled.webp);
+  background-image: url('../todo.png');
 }
 
 .dev-6{
-  background-image: url(https://www.sectorlink.com/img/blog/web-devel-important.jpg);
+  background-image: url('../payecalc.png');
 }
 
 .dev-7{
