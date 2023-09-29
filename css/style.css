@@ -145,7 +145,7 @@ html {
   background-size: cover;
   padding-right: 30px;
   border-radius: 15px 15px 0 0;
-  background-image: url(https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg);
+  background-image: url('../akanname.png');
 }
 
 .card-image.my-name2 {
@@ -155,7 +155,7 @@ html {
   background-position: center;
   padding-right: 30px;
   border-radius: 15px 15px 0 0;
-  background-image: url(https://www.reachfirst.com/wp-content/uploads/2018/08/Web-Development.jpg);
+  background-image: url('../pokedex.png');
 }
 
 .card-image.my-name3 {
@@ -164,7 +164,7 @@ html {
   background-size: cover;
   padding-right: 30px;
   border-radius: 15px 15px 0 0;
-  background-image: url(https://www.corporatevision-news.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/04/Software-Development-1536x864.jpg.webp);
+  background-image: url('../myflix.png');
 }
 
 .card a{
